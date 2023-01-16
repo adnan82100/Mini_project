@@ -1,0 +1,16 @@
+chips
+wraps
+chickens
+omelet
+rice
+fries
+eggs
+hot chocolate
+coffee
+tea
+coke
+fanta
+water
+cereals
+milk
+cookies
